@@ -19,7 +19,7 @@
 * Physical access
   * [Aportal](https://github.com/bytedreamer/Aporta)
   * [Linphone](https://gitlab.linphone.org/explore/projects): VoIP access
-  * [Frigate NVR](NVR With Realtime Object Detection for IP Cameras): Network Video Recorder
+  * [Frigate NVR](https://github.com/blakeblackshear/frigate): NVR With Realtime Object Detection for IP Cameras
 * Asymmetric and symmetric Encryption
   * [GnuPG](https://gnupg.org/)
   * [OpenSSL](https://www.openssl.org/)
